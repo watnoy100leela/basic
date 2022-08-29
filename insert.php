@@ -1,0 +1,23 @@
+<?php
+    $name = $_POST['text_firstname'];
+    echo $name;
+    $text_name = $_POST['text_name'];
+    echo $text_name;
+    $text_lastname = $_POST['text_lastname'];
+    echo $text_lastname;
+    echo "<br>";
+    $text_sex = $_POST['text_sex'];
+    echo $text_sex;
+    echo "<br>";
+    $text_birthdate = $_POST['text_birthdate'];
+    echo $text_birthdate;
+    echo "<br>";
+    $text_address = $_POST['text_address'];
+    echo $text_address;
+    echo "<br>";
+    $number = $_POST['number'];
+    echo $number;
+    echo "<br>";
+    $Email = $_POST['Email'];
+    echo $Email;
+    echo "<br>";
